@@ -1,4 +1,4 @@
-# Shnoor AI & Meeting Interface - Integration Guide
+# ai-module
 
 This folder contains all the custom AI and meeting components created for the Shnoor Meetings platform. Follow these steps to integrate them into your local environment.
 
@@ -13,7 +13,7 @@ This folder contains all the custom AI and meeting components created for the Sh
 - **Components**: Copy files from `frontend/components/` into your `src/components/` directory.
 - **Services**: Copy files from `frontend/services/` into your `src/services/` directory.
 - **Hooks**: Copy files from `frontend/hooks/` into your `src/hooks/` directory.
-- **Assets**: Copy `illustration.png` into `src/assets/`.
+- **Assets**: Copy `illustration.png` into your `src/assets/`.
 
 **Dependencies**: Ensure you have installed these packages:
 ```bash
